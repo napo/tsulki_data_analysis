@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_version
+ARST SpA - Trasporti Regionali Della Sardegna,http://arst.sardegna.it/,it,01022019
