@@ -1,6 +1,0 @@
-route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
-205,ARST SPA,Linea 205,SANLURI - GUSPINI - ARBUS - FLUMINIMAGGIORE,,3,http://www.arstspa.info/205.pdf,0000FF,ffffff
-804,ARST SPA,Linea 804,BUGGERRU - IGLESIAS,,3,http://www.arstspa.info/804.pdf,0000FF,ffffff
-808,ARST SPA,Linea 808,MASUA - IGLESIAS - DOMUSNOVAS,,3,http://www.arstspa.info/808.pdf,0000FF,ffffff
-840,ARST SPA,Linea 840,MASUA - DOMUSNOVAS,,3,http://www.arstspa.info/840.pdf,0000FF,ffffff
-857,ARST SPA,Linea 857,PORTIXEDDU - FLUMINIMAGGIORE,,3,http://www.arstspa.info/857.pdf,0000FF,ffffff
